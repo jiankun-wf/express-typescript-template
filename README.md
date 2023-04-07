@@ -12,6 +12,7 @@
   `
 2. `npm run dev(start)`
 3. postman/apifox 访问localhost:3000/users（示例）
+4. localhost:3000/api-docs 访问swagger文档
 
 ### 构建
 npm run build
